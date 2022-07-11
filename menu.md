@@ -1,6 +1,6 @@
 # Menu Pizzerii CDV
 
-Dostępne rozmiary: 30 cm, 50 cm, 60 cm.
+Dostępne rozmiary: 30 cm / 50 cm / 60 cm.
 
 1. MARGHERITA (sos pomidorowy, ser, oregano) - 20 zł / 40 zł / 50 zł
 2. FUNGHI (sos pomidorowy, ser mozarella, pieczarki) - 22 zł / 42 zł / 52 zł
