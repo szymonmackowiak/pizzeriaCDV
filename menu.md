@@ -18,6 +18,22 @@
 |9. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
 |10.|BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 60 zł |
 
+## Pizze wegetariańskie
+
+<img src = "img/randy-fath-5aJVJvJ9rG8-unsplash.jpg" width = 300>
+
+|Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
+|---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
+|1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                           |                    | 22 zł | 42 zł | 52 zł |
+|3. |HAWAJSKA VEGE (sos pomidorowy, ser, ananas)                                       |                    | 25 zł | 45 zł | 55 zł |
+|4. |MILANO VEGE (sos pomidorowy, ser, papryka, oregano)                               |                    | 26 zł | 46 zł | 56 zł |
+|5. |KEBAB (sos pomidorowy, ser, kebab sojowy, sos czosnkowy)                          |                    | 26 zł | 46 zł | 56 zł |
+|6. |QUATTRO FROMAGGI (sos pomidorowy, 4 gatunki tofu, oregano)                        |                    | 27 zł | 47 zł | 57 zł |
+|7. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
+
+
+
 ## Pizza calzone - zwinięta w pieróg
 
 <img src = "img/freddy-g-6eAfaHjqThk-unsplash.jpg" width = 200>
@@ -37,6 +53,13 @@
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 50 zł | 
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
+
+## Sałatki
+
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
+2. Grecka  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
+3. Hiszpańska  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
+
 
 ## Sosy
 
