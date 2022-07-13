@@ -56,6 +56,8 @@
 
 ## Sałatki
 
+<img src = "img/tania-melnyczuk-xeTv9N2FjXA-unsplash .jpg" width = 300>
+
 1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
 2. Grecka  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
 3. Hiszpańska  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
