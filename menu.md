@@ -85,3 +85,5 @@
 |4. |Piwo jasne                                              |                    | 10 zł  | 15 zł  | 
 |5. |Piwo ciemne                                             |                    | 12 zł  | 17 zł  | 
 
+## Zamówienia
+Aby dokonać zamówienia zadzwoń pod numer: +48 123 123 123
