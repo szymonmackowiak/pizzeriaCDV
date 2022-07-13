@@ -2,6 +2,9 @@
 
 ## Pizze klasyczne
 
+<img src = "img/vitalii-chernopyskyi-Oxb84ENcFfU-unsplash.jpg" width = 300>
+
+
 |Lp.| Pizza:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |MARGHERITA (sos pomidorowy, ser, oregano)                                         |                    | 20 zł | 40 zł | 50 zł |
@@ -17,6 +20,8 @@
 
 ## Pizza calzone - zwinięta w pieróg
 
+<img src = "img/freddy-g-6eAfaHjqThk-unsplash.jpg" width = 200>
+
 |Lp.| Nazwa:                                                                           | rozmiar:           | 30 cm | 50 cm | 60 cm |
 |---|----------------------------------------------------------------------------------|--------------------|-------|-------|-------|
 |1. |KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                                 |                    | 26 zł | 46 zł | 56 zł |
@@ -25,6 +30,8 @@
 
 ## Makarony
 
+<img src = "img/olayinka-babalola-r01ZopTiEV8-unsplash.jpg" width = 300>
+
 |Lp.| Nazwa:                                                               | porcja:            | 500 g | 650 g | 
 |---|----------------------------------------------------------------------|--------------------|-------|-------|
 |1. |SPAGHETTI NAPOLI (makaron z sosem pomidorowym i serem)                |                    | 30 zł | 50 zł | 
@@ -32,12 +39,17 @@
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
 
 ## Sosy
+
+<img src = "img/elio-cesaro-EstHGbNyjng-unsplash.jpg" width = 200>
+
 1. Czosnkowy - 5 zł
 2. Pomidorowy - 5zł
 3. Barbeque - 5 zł
 4. Sezamowy - 5 zł
 
 ## Napoje
+
+<img src = "img/alexander-mils-pPhN8HFzkDE-unsplash.jpg" width = 200>
 
 |Lp.| Napój:                                                 | pojemność:         | 330 ml | 500 ml |
 |---|--------------------------------------------------------|--------------------|--------|--------|
